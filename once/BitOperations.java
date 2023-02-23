@@ -1,3 +1,4 @@
+package once;
 
 public class Bit_once { 
      

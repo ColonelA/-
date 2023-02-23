@@ -1,3 +1,4 @@
+package once;
 public class sorting {
     public static void selectSorting(int arr[]) { 
     
@@ -26,13 +27,9 @@ public class sorting {
         }
      }  
 
-
      public static void swap(int[] arr, int i , int j){ 
          int tmp = arr[i]; 
          arr[i] = arr[j] ;
          arr[j] = tmp;
-        
      }
-
-
 }
