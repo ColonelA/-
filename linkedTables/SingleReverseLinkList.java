@@ -1,6 +1,6 @@
 package linkedTables;
 
-public class SingleLinkedTable {
+public class SingleReverseLinkList {
      
 
     public static class Node {
