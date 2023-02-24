@@ -12,7 +12,7 @@ public class SingleReverseLinkList {
         }
     }
         
-
+  // https://leetcode.cn/problems/UHnkqh/
   public static Node main(Node head){ 
       
     Node pre = null;
